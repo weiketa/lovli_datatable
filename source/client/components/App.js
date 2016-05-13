@@ -5,6 +5,7 @@ import TodoList from './todos/TodoList';
 import AddTodoButton from './todos/AddTodoButton';
 
 import 'static/vendor/font-awesome/css/font-awesome.min.css';
+import 'static/vendor/fixed-data-table.min.css';
 import styles from 'styles/app';
 
 const App = () => (
